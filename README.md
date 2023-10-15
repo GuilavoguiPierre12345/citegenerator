@@ -6,3 +6,5 @@ l'application contient 4 fichiers
 2 - un fichier javascript
 3 - un fichier css
 4- un fichier de description du fonctionnement de l'application.
+
+NB: une application tres basic dans l'apprentissage du JS
